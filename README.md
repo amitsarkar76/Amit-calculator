@@ -1,4 +1,5 @@
-﻿# Thunder-rose-day
+﻿# Thunder-calculator
+ 
  group - https://t.me/FRIENDS_CHATTING_POINT
  
  vishakha - https://t.me/justyours01
